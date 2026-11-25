@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://saisubhash8919-byte.github.io
+Sitemap: https://saisubhash8919-byte.github.io/sitemap.xml

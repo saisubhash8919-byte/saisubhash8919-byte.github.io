@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+5:"/_next/static/chunks/1ua2kfq9s-me6.js"
+6:I[39756,["$5"],"default"]
+7:I[37457,["$5"],"default"]
+b:I[97367,["$5"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$5"],"$f"]
+11:"MetadataBoundary"
+12:I[97367,["$5"],"$11"]
+:HL["/_next/static/chunks/3gw6bisxpebtx.css","style"]
+3:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[null,null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$3"}}]]
+4:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$3"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3gw6bisxpebtx.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1ua2kfq9s-me6.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"grid min-h-screen place-items-center bg-ink-950 p-6 text-center","children":["$","main",null,{"children":[["$","p",null,{"className":"font-display text-6xl font-semibold text-gradient","children":"404"}],["$","h1",null,{"className":"mt-4 font-display text-2xl font-semibold text-white","children":"This page doesn't exist"}],["$","p",null,{"className":"mt-2 text-slate-400","children":"Choose your language to go back to Sanjeevani."}],["$","nav",null,{"aria-label":"Languages","className":"mt-6 flex flex-wrap justify-center gap-3","children":[["$","a","en",{"href":"/en/","lang":"en","className":"rounded-full border border-cyan-400/30 px-4 py-2 text-cyan-200 hover:bg-cyan-400/10","children":"English"}],["$","a","hi",{"href":"/hi/","lang":"hi","className":"rounded-full border border-cyan-400/30 px-4 py-2 text-cyan-200 hover:bg-cyan-400/10","children":"हिन्दी"}],["$","a","bn",{"href":"/bn/","lang":"bn","className":"rounded-full border border-cyan-400/30 px-4 py-2 text-cyan-200 hover:bg-cyan-400/10","children":"বাংলা"}],["$","a","mr",{"href":"/mr/","lang":"mr","className":"rounded-full border border-cyan-400/30 px-4 py-2 text-cyan-200 hover:bg-cyan-400/10","children":"मराठी"}],["$","a","ta",{"href":"/ta/","lang":"ta","className":"rounded-full border border-cyan-400/30 px-4 py-2 text-cyan-200 hover:bg-cyan-400/10","children":"தமிழ்"}],["$","a","te",{"href":"/te/","lang":"te","className":"rounded-full border border-cyan-400/30 px-4 py-2 text-cyan-200 hover:bg-cyan-400/10","children":"తెలుగు"}]]}]]}]}]}]]}],"p":"$@2","v":null,"s":"$3"},"c":"$Q4"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"404 — Sanjeevani AI Healthcare"}],["$","link","1",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","2",{"name":"robots","content":"noindex"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@13","v":null,"s":"$3"}},"a":"$@14","u":"$@15","b":"CO4x83N7zXhIfZW5AHeTh"}
+d:null
+3:300
+15:true
+3:C
+14:0
+8:"$undefined"
+2:"$undefined"
+13:"$undefined"
+e:"$undefined"
